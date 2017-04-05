@@ -1,2 +1,2 @@
 # Competitive-programs
-##  by Diego Rodrigo
+##  By Diego Rodrigo
